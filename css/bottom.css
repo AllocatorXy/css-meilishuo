@@ -1,0 +1,54 @@
+.bottom{
+	height: 316px;
+	background-color: #f5f5f5;
+	margin-top: 80px;
+	border: 1px solid #ddd;
+	color: #666;
+	font-family: "microsoft yahei";
+}
+
+.bottom .cusService{
+	float: left;
+	margin-top: 17px;
+}
+.bottom .cusService p{
+	height: 64px;
+	line-height: 22px;
+	font-size: 12px;
+	margin-left: 14px;
+}
+.bottom .cusService strong{
+	font-size: 14px;
+}
+
+.bottom .bottomList{
+	height: 160px;
+	margin-top: 35px;
+	margin-left: 236px;
+}
+.bottom .bottomList li{
+	float: left;
+	list-style: none;
+	margin-right: 50px;
+}
+.bottom .bottomList li p{
+	font-size: 17px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.bottom .bottomList li a{
+	display: block;
+	text-decoration: none;
+	color: #666;
+	float: none;
+	line-height: 20px;
+	margin-bottom: 15px;
+}
+.bottom .bottomList li>img{
+	margin-top: 5px;
+}
+.bottom .bottomList li a img{
+	float: left;
+	margin-top: 2px;
+	margin-right: 5px;
+}

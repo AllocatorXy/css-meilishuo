@@ -4,6 +4,7 @@
 	height: 415px;
 	font-family: "microsoft yahei";
 	float: left;
+	overflow: hidden;
 }
 .madFri .title{
 	font-size: 20px;
