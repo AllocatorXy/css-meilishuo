@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0;}
+html{width: 1200px;margin: 0 auto;}
+
+.logo,.appLogo{margin-top: 71px;}
+.logo{margin-left: 2px;float: left;}
+.appLogo{margin-right: 2px;float: right;}

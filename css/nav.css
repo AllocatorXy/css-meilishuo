@@ -1,0 +1,17 @@
+.nav {
+	font-family: "microsoft yahei";
+	font-size: 14px;
+	float: left;
+	height: 48px;
+	width: 100%;
+	margin-top: 38px;
+	border-bottom: 2px solid #f69;
+}
+.nav a {
+	text-decoration: none;
+	color: #333;
+	text-align: center;
+	margin-left: 21px;
+	margin-right: 24px;
+	line-height: 48px;
+}

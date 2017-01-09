@@ -1,0 +1,38 @@
+.horiShow{
+	overflow: hidden;
+	font-family: "microsoft yahei";
+}
+
+.horiShow a{
+	line-height: 36px;
+	text-decoration: none;
+	color: #666;
+	font-size: 13px;
+}
+
+.horiShow div{
+	float: left;
+	margin-right: 20px;
+	width: 387px;
+	height: 110px;
+}
+
+.horiShow .now{
+	float: left;
+	font-size: 11px;
+	color: #f69;
+}
+.horiShow .now span{
+	font-size: 14px;
+	color: #f69;
+}
+.horiShow .old{
+	float: left;
+	margin-top: 2px;
+	margin-left: 26px;
+	text-decoration: line-through;
+}
+.horiShow .old,.horiShow .comment{
+	font-size: 12px;
+	color: #999;
+}

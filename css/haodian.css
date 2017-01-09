@@ -1,0 +1,56 @@
+.haodian{
+	font-family: "microsoft yahei";
+	margin-top: -18px;
+	text-align: center;
+}
+.haodian li{
+	list-style: none;
+}
+.haodian .banner{
+	width: 100%;
+	height: 30px;
+	margin-left: 343px;
+	margin-bottom: 20px;
+	line-height: 30px;
+}
+.haodian .banner li{
+	float: left;
+	height: 30px;
+	margin-right: 43px;
+}
+.haodian .banner a{
+	display: inline-block;
+	text-decoration: none;
+	color: #f69;
+	padding-top: 2px;
+	font-size: 15px;
+}
+
+.haodian .pic{
+	width: 387px;
+	float: left;
+	margin-right: 20px;
+}
+
+.haodian .pic .big{
+	float: left;
+	margin-right: 2px;
+}
+.haodian .pic img{
+	display: block;
+	margin-bottom: 2px;
+}
+
+.haodian h2 a{
+	color: #666;
+	font-size: 20px;	
+}
+
+.haodian div .comment{
+	margin-bottom: 13px;
+}
+
+.haodian div .comment span{
+	color: #f69;
+	margin-left: 4px;
+}

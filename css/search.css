@@ -1,0 +1,45 @@
+.search{
+	font-family: "microsoft yahei";
+	width: 520px;
+	height: 56px;
+	position: absolute;
+	margin-left: 361px;
+	margin-top: 52px;
+}
+.search a{text-decoration: none;}
+
+.search .item,.search .shop{
+	font-size: 12px; 
+	text-align: center;
+	line-height: 24px; 
+	float: left;
+	width: 56px;
+	height: 24px;
+	color: #666;
+}
+.search .item{
+	background-color: #f69;
+}
+.search .shop{
+	background-color: #f2f2f2;
+}
+
+.search .searchInput{
+	outline: none;
+	padding-left: 8px;
+	font-size: 13px;
+	height: 28px;
+	width: 437px;
+	border: 2px solid #f69;
+	float: left;
+}
+.search .go{
+	width: 70px;
+	height: 32px;
+	background-color: #f69;
+	border-left: 1px solid #f69;
+	float: right;
+}
+.search .go img{
+	margin: 8.5px 27px;
+}

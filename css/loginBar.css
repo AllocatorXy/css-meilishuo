@@ -1,0 +1,60 @@
+.loginBar{
+	height: 30px;
+	border-bottom: 1px solid #eee;
+	background-color: #fff;
+	position: fixed;
+	float: right;
+	width: 1200px;
+	z-index: 3000;
+}
+.loginBar .loginCell{
+	position: relative;
+	list-style: none;
+	font-size: 12px;
+	font-family: "microsoft yahei";
+	line-height: 30px;
+	float: right;
+	text-align: center;
+}
+.loginBar .loginCell a{
+	position: relative;
+	text-decoration: none;
+	color: #666;
+	margin-left: 15px;
+	padding-right: 15px;
+	line-height: 19px;
+	border-right: 1px dashed #ccc;
+}
+.loginBar .loginCell a img{
+	float: left;
+	margin-top: 7px;
+	margin-right: -9px;
+	margin-left: 15px;
+	z-index: 3;
+}
+
+/*购物车buble*/
+.cartBuble{
+	position: absolute;
+	height: 14px;width: 19px;
+	margin-left: -34px;
+	margin-top: 8px;
+	font-size: 9px;
+	background-color: #f69;
+	color: #fff;
+	text-align: center;
+	line-height: 14px;
+}
+
+/*下箭头*/
+.dot-bottom{
+	font-size: 0;
+	line-height: 0;
+	border-width: 5px;
+	border-color: #656666;
+	border-bottom-width: 0;
+	border-style: dashed;
+	border-top-style: solid;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}

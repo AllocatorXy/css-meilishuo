@@ -1,0 +1,36 @@
+.picPlayer{
+	overflow: hidden;
+	width: 960px;
+	height: 420px;
+}
+
+.picPlayer .pics{
+	list-style: none;
+}
+
+.picPlayer .picIndex{
+	width: 180px;
+	height: 33px;
+	position: absolute;
+	margin-top: 380px;
+	margin-left: 390px;
+}
+
+.picPlayer .picIndex span{
+	overflow: hidden;
+	margin-top: 10px;
+	float: left;
+	margin-right: 20px;
+	width: 5px;height: 5px;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	background: #fff;
+}
+
+.picPlayer .btnNavLeft,.picPlayer .btnNavRight{
+	position: absolute;
+	margin-top: 190px;
+}
+.picPlayer .btnNavRight{
+	margin-left: 926px;
+}

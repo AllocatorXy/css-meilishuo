@@ -1,0 +1,31 @@
+.leftBar{
+	border: 1px solid #e6e6e6;
+	width: 238px;
+	height: 572px;
+	overflow: hidden;
+	float: left;
+}
+.leftBar a{
+	text-decoration: none;
+	color: #727272;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 18px;
+}
+.leftBar li{
+	font-family: "microsoft yahei";
+	list-style: none;
+	width: 198px;
+	height: 98px;
+	padding-top: 15px;
+	margin-left: 20px;
+	border-bottom: 1px dashed #ccc;
+}
+.leftBar .leftBarTitle{
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	color: #f69;
+	margin-bottom: 12px;
+}
+
